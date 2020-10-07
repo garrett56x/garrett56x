@@ -1,15 +1,9 @@
 <div style="display:flex;">
-    <div style="flexDirection:column">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=garrett56x&show_icons=true&count_private=true&hide=issues,contribs&theme=dark" />
-        </a>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=garrett56x&theme=dark" />
-        </a>
+    <div style="flex-direction: column;">
+        <img src="https://github-readme-stats.vercel.app/api?username=garrett56x&show_icons=true&count_private=true&hide=issues,contribs&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=garrett56x&theme=dark" />
     </div>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrett56x&theme=dark" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrett56x&theme=dark" />
 </div>
 
 <!--
