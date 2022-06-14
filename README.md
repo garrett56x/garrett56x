@@ -1,9 +1,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=garrett56x&show_icons=true&count_private=true&hide=issues,contribs&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrett56x&theme=dark&layout=compact&hide=ruby,php,coffeescript" />
-</a>
 
 <!--
 **garrett56x/garrett56x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
